@@ -27,6 +27,9 @@
     "pug": "^2.0.4",
     "rimraf": "^3.0.1"
   },
+  "devDependencies": {
+    "constantinople": ">=3.1.1"
+  },
   "babel": {
     "presets": [
       "@babel/preset-env"
